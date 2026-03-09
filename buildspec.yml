@@ -21,4 +21,4 @@ phases:
   post_build:
     commands:
       - echo Push image
-      - docker push 123456789012.dkr.ecr.us-east-1.amazonaws.com/$IMAGE_REPO_NAME:latest
+      - docker push 281934899210.dkr.ecr.us-east-1.amazonaws.com/$IMAGE_REPO_NAME:latest
